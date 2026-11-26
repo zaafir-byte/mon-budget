@@ -1,0 +1,11 @@
+{
+  "name": "MON BUDGET",
+  "short_name": "Mon Budget",
+  "description": "Application simple de gestion des revenus et des dépenses.",
+  "lang": "fr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f3f6",
+  "theme_color": "#263D59"
+}
