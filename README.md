@@ -17,9 +17,8 @@ mon-budget/
 ├── manifest.webmanifest
 ├── README.md
 ├── service-worker.js
-└── src/
-    ├── app.js
-    └── styles.css
+├── app.js
+└── styles.css
 ```
 
 ## Lancer le prototype
